@@ -1,0 +1,6 @@
+c:\users\joshua\documents\visual studio 2012\Projects\SE320_Lab1\SE320_Lab1\bin\Debug\SE320_Lab1.exe.config
+C:\Users\Joshua\documents\visual studio 2012\Projects\SE320_Lab1\SE320_Lab1\obj\Debug\SE320_Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\documents\visual studio 2012\Projects\SE320_Lab1\SE320_Lab1\bin\Debug\SE320_Lab1.exe
+C:\Users\Joshua\documents\visual studio 2012\Projects\SE320_Lab1\SE320_Lab1\bin\Debug\SE320_Lab1.pdb
+C:\Users\Joshua\documents\visual studio 2012\Projects\SE320_Lab1\SE320_Lab1\obj\Debug\SE320_Lab1.exe
+C:\Users\Joshua\documents\visual studio 2012\Projects\SE320_Lab1\SE320_Lab1\obj\Debug\SE320_Lab1.pdb
